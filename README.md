@@ -41,8 +41,7 @@ Zero Hunger Dashboard/
 ├── main.py             # Main script for the Streamlit app
 ├── requirements.txt    # Python dependencies required for the project
 ├── README.md           # Detailed documentation of the project
-├── .gitignore          # Files and directories to be ignored by Git
-└── Mock Data/          # Folder containing mock data used in the app
+└── .gitignore          # Files and directories to be ignored by Git
 ```
 
 ---
