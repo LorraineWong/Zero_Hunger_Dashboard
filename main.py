@@ -142,6 +142,7 @@ if not filtered_data.empty:
         y="Rainfall (mm)",
         title=f"Annual Average Rainfall for {selected_crop} in {selected_country}",
         labels={"Rainfall (mm)": "Rainfall (mm)", "Year": "Year"},
+        text_auto=True,
         color_discrete_sequence=["#3498db"]
     )
     st.plotly_chart(fig_rainfall, use_container_width=True)
@@ -153,6 +154,7 @@ if not filtered_data.empty:
         y="Temperature (°C)",
         title=f"Annual Average Temperature for {selected_crop} in {selected_country}",
         labels={"Temperature (°C)": "Temperature (°C)", "Year": "Year"},
+        text_auto=True,
         color_discrete_sequence=["#e74c3c"]
     )
     st.plotly_chart(fig_temperature, use_container_width=True)
