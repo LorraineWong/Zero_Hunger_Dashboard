@@ -55,3 +55,10 @@ This project can be deployed on Streamlit Community Cloud:
 3. The app will be hosted live, accessible via a public URL.
 
 ---
+
+## ❤️ Acknowledgments
+
+Special thanks to the contributors and the data science community for inspiring this project. Let's work together to achieve Zero Hunger!
+
+
+---
