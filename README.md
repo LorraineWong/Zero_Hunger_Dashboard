@@ -34,13 +34,16 @@ Follow these steps to get the project running on your local machine:
 ---
 
 ## 📂 Project Structure
+
+```plaintext
 Zero Hunger Dashboard/
 │
-├── main.py             # Main Streamlit app script
-├── requirements.txt    # Project dependencies
-├── README.md           # Project documentation
-├── .gitignore          # Ignored files
-└── Mock Data/          # Contains any mock data used for the dashboard
+├── main.py             # Main script for the Streamlit app
+├── requirements.txt    # Python dependencies required for the project
+├── README.md           # Detailed documentation of the project
+├── .gitignore          # Files and directories to be ignored by Git
+└── Mock Data/          # Folder containing mock data used in the app
+```
 
 ---
 
