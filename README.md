@@ -56,9 +56,14 @@ This project can be deployed on Streamlit Community Cloud:
 
 ---
 
+## 🖼️ Poster Design
+
+Canva Design: [Poster Link](https://www.canva.com/design/DAGcE5RLZEY/wNcuSw0mLDRHV6VzCDH6Cw/view?utm_content=DAGcE5RLZEY&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+
+---
+
 ## ❤️ Acknowledgments
 
 Special thanks to the contributors and the data science community for inspiring this project. Let's work together to achieve Zero Hunger!
-
 
 ---
